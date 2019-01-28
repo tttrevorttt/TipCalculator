@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_total">Bill Total</string>
+    <string name="amount_description">Enter the total amount</string>
+    <string name="tip_percentage"></string>
+    <string name="tip_hint">How much you like to tip?</string>
+    <string name="calculate_tip_button">Calculate Tip</string>
+    <string name="tip">Tip: $</string>
+    <string name="tip1">Tip:</string>
+    <string name="totalamt">Total:</string>
+    <string-array name="tip_amount_array">
+        <item>Tip</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+    </string-array>
+</resources>
